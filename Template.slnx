@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/solution-items/">
+    <File Path="../AGENT.md" />
+    <File Path="../AGENTS.md" />
+    <File Path="../CLAUDE.md" />
+    <File Path="../Untitled-1.md" />
+    <File Path="commands.txt" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="Template.Api/Template.Api.csproj" />
+  <Project Path="Template.Infrastructure/Template.Infrastructure.csproj" />
+  <Project Path="Template.Integration/Template.Integration.csproj" />
+  <Project Path="Template.Modules/Template.Modules.csproj" />
+  <Project Path="Template.Tests/Template.Tests.csproj" />
+</Solution>
